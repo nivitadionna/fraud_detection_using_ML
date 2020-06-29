@@ -14,4 +14,5 @@ The steps involved in the project are:
 4. Visualization of correlations
 5. Model Architecture-(Logistic Regression,KNeighborsClassifier)
 6. Model Evaluation and Prediction
+
 Conclusion:Using Logestic Regression and KNeighbors we get 97% and 97% accuracy respectively.
